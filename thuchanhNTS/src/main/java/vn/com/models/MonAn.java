@@ -14,11 +14,11 @@ public class MonAn {
     private String imagePath;
     private int chuDeId;
 
-    // Constructor không tham số
+    
     public MonAn() {
     }
 
-    // Constructor đầy đủ
+   
     public MonAn(int id, String tenMonAn, String moTa, String noiDung,
                  Date ngayTao, Date ngayCapNhat,
                  String imageName, String imagePath, int chuDeId) {
