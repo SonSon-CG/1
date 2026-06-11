@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RPA Web Overlay</string>
+    <string name="accessibility_service_description">Dịch vụ này được sử dụng để thực hiện các thao tác tự động chạm (RPA).</string>
+</resources>
